@@ -3,6 +3,7 @@ This repository contains the code for a Face Recognition Customer Tracking Appli
 - **Face Recognition**: The application uses [FaceNet](https://github.com/davidsandberg/facenet/tree/master) pre-trained deep learning model to recognize repeating customers' faces.
 - **Data Storage**: The application stores customers' data in MySQL database, which can be used for contact tracing and alerting restaurant owners to take precautions for customers in the high-risk category.
 - **User Interface**: The application provides a user-friendly interface for restaurant owners to add, view and manage customers' data.
+![Customer Tracking App](dashboard-1.png)
 
 ## Features
 - **Face Registration**: On the customer's first visit, their face is recorded, and their personal information is manually entered by the restaurant owner. The customer's face is then stored in the database. 
