@@ -1,0 +1,12 @@
+flask
+flask_sqlalchemy
+sqlalchemy
+pymysql
+opencv-python
+opencv_contrib_python
+pillow
+tensorflow==1.15.0
+keras==2.3.1
+sklearn
+mtcnn
+keyboard

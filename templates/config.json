@@ -1,0 +1,7 @@
+{
+  "params":
+  {
+    "local_server": true,
+    "local_uri": "mysql+pymysql://root:@localhost/db_customer_tracking"
+  }
+}
